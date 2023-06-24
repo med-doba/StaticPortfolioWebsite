@@ -12,7 +12,7 @@ window.onscroll = function() {
     scrollBtn.style.display = "none";
   }
 
-}
+} 
 
 // Side NavIgation Menu JS Code
 let body = document.querySelector("body");
